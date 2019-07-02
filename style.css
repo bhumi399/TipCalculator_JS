@@ -1,0 +1,34 @@
+#Calculator
+{
+    background-color: cornflowerblue;
+    height: 250px;
+    width: 275px;
+    color: #ffffff;
+    padding: 30px;
+    margin : auto;
+}
+
+input
+{
+    width: 125px;
+    height: 20px;
+    color: red;
+    background-color: black;
+}
+
+#btn_calc
+{
+    background-color: orange;
+    color: black;
+    margin-left: 100px;
+}
+
+#tip
+{
+    background-color: grey;
+}
+
+#total
+{
+    background-color: grey;
+}
